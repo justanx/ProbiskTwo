@@ -62,4 +62,3 @@ And admin user will receive a notification email that contains inquiry and custo
 
 ![image](https://github.com/ykpsph/ProbiskTwo/assets/52661595/e3415507-3c06-4d8c-beee-78ddfe40964f)
 
-### Registration Page
