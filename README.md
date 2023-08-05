@@ -1,4 +1,4 @@
-![image](https://github.com/ykpsph/ProbiskTwo/assets/52661595/209e442e-0606-4ef8-aab3-6e66927d249a)# Floor & Decor
+# Floor & Decor
 - Everyone wants to make their home clean and shiny.
 - They can do the cleaning dust through regular cleaning but it doesn’t make it shiny.
 - It needs something else like any upper coating to their walls and floor that makes it rich looking.
